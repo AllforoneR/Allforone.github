@@ -7,7 +7,7 @@
     <p> "Hello world!</p>
     
     <h2>How is everyone?</h2>
-    <p>'how are you doing?</h2>
+    <p>how are you doing?</p>
   
  
   </body>
